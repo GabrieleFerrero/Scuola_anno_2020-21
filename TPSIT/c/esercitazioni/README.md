@@ -18,3 +18,8 @@ Successivamente calcolare:
 2) totale dei ricoverati in terapia intensiva
 3) top 3 delle regioni con meno casi totali positivi.
 - esercitazione_08 --> fare un esercizio che permetta di stampare il valore acquisito precedentemente ed in seguito salvato dentro una struttura ed in più stampare anche l'indirizzo del puntatore alla prossima struttura
+- esercitazione_09 --> Creare un programma che dato un numero intero, avente un numero arbitrario di cifre inserite
+dall’utente, lo scriva in output con le cifre in ordine inverso. Utilizzare una pila e le implementazioni
+dei metodi push e pop.
+- esercitazione_10 --> Scrivere un programma che chieda all’utente una stringa composta da parentesi aperte e chiuse: (,),[,],{,} e
+che verifichi se le coppie e l’ordine delle (,),[,],{,} sono corretti. Utilizzare uno stack.
