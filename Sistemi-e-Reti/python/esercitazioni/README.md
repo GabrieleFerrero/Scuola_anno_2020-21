@@ -8,3 +8,4 @@ Consegna esercitazioni:
 - esercitazione_04 --> programma per generare un indirizzo MAC casuale
 - esercitazione_05 --> calcolo della serie di fibonacci
 - esercitazione_06 --> programma per codificare e decodificare una stringa
+- esercitazione_07 --> programma per verificare la corretta apertura e chiusura delle parentesi
