@@ -29,7 +29,7 @@ public class ColpisciBersaglio {
         return punteggioTotale;
     }
     public void aggiungiBersaglio(Bersaglio b){
-        bersaglios[conti+1] = b;
+        bersaglios[conti++] = b;
     }
     public void spara(float mx, float my){
         for(int a=0; a<conti; a++) {
