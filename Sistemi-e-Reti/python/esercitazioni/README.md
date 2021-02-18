@@ -9,3 +9,5 @@ Consegna esercitazioni:
 - esercitazione_05 --> calcolo della serie di fibonacci
 - esercitazione_06 --> programma per codificare e decodificare una stringa
 - esercitazione_07 --> programma per verificare la corretta apertura e chiusura delle parentesi
+- esercitazione_08 --> realizzare un programma che crei un pavimento con relativi ostacoli e un robot che pulisca il pavimento
+- esercitazione_09 --> realizzare un gioco in python utilizzando la libreria pygame
