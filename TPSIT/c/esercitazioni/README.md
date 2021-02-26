@@ -23,3 +23,4 @@ dall’utente, lo scriva in output con le cifre in ordine inverso. Utilizzare un
 dei metodi push e pop.
 - esercitazione_10 --> Scrivere un programma che chieda all’utente una stringa composta da parentesi aperte e chiuse: (,),[,],{,} e
 che verifichi se le coppie e l’ordine delle (,),[,],{,} sono corretti. Utilizzare uno stack.
+- esercitazione_11 --> Esercizi su pile e code
